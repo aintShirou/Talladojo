@@ -481,16 +481,16 @@ input:checked + label .description {
 }
 
 .wrap[for="c1"] {
-    background-image: url('../images/dotes.jpg');
+    background-image: url('images/dotes.jpg');
 }
 .wrap[for="c2"] {
-    background-image: url('../images/lol.png');
+    background-image: url('images/lol.png');
 }
 .wrap[for="c3"] {
-    background-image: url('../images/GI.jpg');
+    background-image: url('images/GI.jpg');
 }
 .wrap[for="c4"] {
-    background-image: url('../images/val.jpg');
+    background-image: url('images/val.jpg');
 }
   
 .game-info{
