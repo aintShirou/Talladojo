@@ -17,12 +17,12 @@ Sections of my website:
 5. Contact: The "Contact" section provides visitors with a convenient way to reach out to me for collaborations, inquiries, or any other professional opportunities.
 
 *Technologies Used*
-HTML
-CSS
-Javascript
-Bootstrap (CSS and JS)
-Boxicons
-GoogleFontsAPI
+HTML,
+CSS,
+Javascript,
+Bootstrap (CSS and JS),
+Boxicons (used for Icons),
+GoogleFontsAPI (used for fonts styles),
 Javascript Library(Typed.js)
 
 *Deployment*
